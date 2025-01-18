@@ -17,4 +17,4 @@ For syntax examples see [this file](https://github.com/KirbyJeff/alias-installer
 
 ### Feedback is welcome!
 Feel free to DM me on [reddit](https://www.reddit.com/u/KirbyJeef) if you would like to share your .com_alias files and have them added to this repo.
-- Also, aas of right now, the is no way to check for conflicting aliases, so you are advised to check your current aliases to make sure nothing conflicts.
+- Also, as of right now, the is no way to check for conflicting aliases, so you are advised to check your current aliases to make sure nothing conflicts.
