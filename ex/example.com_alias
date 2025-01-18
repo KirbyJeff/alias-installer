@@ -7,9 +7,9 @@ ALIAS_FOR="other-command"
 ALIAS_GLOBAL="false"
 
 ALIAS_NAME="examples2"
-ALIAS_FOR="other-command"
+ALIAS_FOR="other-command2"
 ALIAS_GLOBAL="true"
 
 ALIAS_NAME="examples3"
-ALIAS_FOR="other-command"
+ALIAS_FOR="other-command3"
 ALIAS_GLOBAL="false"
