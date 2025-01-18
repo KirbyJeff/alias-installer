@@ -10,6 +10,10 @@ The way it works is simple, You download the script, named AliasInstaller.py, an
 
 ### Syntax
 For syntax examples see [this file](https://github.com/KirbyJeff/alias-installer/tree/main/ex/example.com_alias).
+- Any empty lines are counted as separators to allow adding multiple aliases in one file.
+- ALIAS_NAME is the name used in the terminal
+- ALIAS_FOR is the command to be called when using the alias.
+- ALIAS_GLOBAL is a boolean (true/false) value that determines whether the alias is a global alias.
 
 ### Feedback is welcome!
 Feel free to DM me on [reddit](https://www.reddit.com/u/KirbyJeef) if you would like to share your .com_alias files and have them added to this repo.
