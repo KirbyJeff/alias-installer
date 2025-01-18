@@ -1,0 +1,15 @@
+ALIAS_NAME="example"
+ALIAS_FOR="command-that-is-fake --flag"
+ALIAS_GLOBAL="true"
+
+ALIAS_NAME="examples1"
+ALIAS_FOR="other-command"
+ALIAS_GLOBAL="false"
+
+ALIAS_NAME="examples2"
+ALIAS_FOR="other-command"
+ALIAS_GLOBAL="true"
+
+ALIAS_NAME="examples3"
+ALIAS_FOR="other-command"
+ALIAS_GLOBAL="false"
